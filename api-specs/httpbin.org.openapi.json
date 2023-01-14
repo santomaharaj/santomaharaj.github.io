@@ -20,7 +20,7 @@
                     {
                         "name": "code",
                         "in": "path",
-                        "description": "HTTP code to return.",
+                        "description": "HTTP code to return from Santhosh.",
                         "required": true,
                         "schema": {
                             "enum": [
